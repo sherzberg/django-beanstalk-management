@@ -1,0 +1,6 @@
+examplesite/dev_settings.py
+*.db
+*.pyc
+.project
+.pydevproject
+
